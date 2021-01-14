@@ -2,5 +2,5 @@
 IEEE Fraud Detection
 
 Contributors:
-Chan Pei Shan
-Too Ai Leng
+1. Chan Pei Shan
+2. Too Ai Leng
